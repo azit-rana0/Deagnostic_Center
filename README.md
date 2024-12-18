@@ -27,8 +27,7 @@ This project is a replica of a diagnostic center's website, designed using **HTM
 
 1. Clone the repository:
    ```bash
-        git clone https://github.com/your-repo-name/diagnostic-center-website.git
-        cd diagnostic-center-website
+        git clone https://github.com/azit-rana0/Deagnostic_Center
    ```
 
 2. install Tailwind CSS:
