@@ -4,7 +4,7 @@
 
 This project is a replica of a diagnostic center's website, designed using **HTML** and **Tailwind CSS**. The site showcases features like tests and packages, special programs, promotional offers, and essential health services. It is fully responsive and optimized for a seamless user experience.
 
-## [Live](https://azit-rana0.github.io/boat-style/)
+## [Live](https://azit-rana0.github.io/Deagnostic_Center/)
 
 ## Features
 
@@ -99,6 +99,6 @@ Feel free to fork the repository and submit a pull request for new features, bug
 
 For inquiries, feedback, or support, please reach out:
 
--  Website: [boAt Style Clone](https://azit-rana0.github.io/boat-style/)
+-  Website: [diagnostic center's website](https://azit-rana0.github.io/Deagnostic_Center/)
 -  Social Media: Follow us on our github for updates and community engagement.
 - Email: ajeetrana520@gmail.com
